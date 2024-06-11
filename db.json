@@ -4,6 +4,7 @@
       "email": "tcadmin@mail.com",
       "password": "$2a$10$WusD7N5I6BzD5ZzJ/B708.sxOlXb26nluzjFGt8BaVR.Ermv4VSeq",
       "role": "admin",
+      "name": "admin666",
       "id": 1
     },
     {
@@ -153,6 +154,14 @@
       "fitnessId": "",
       "trainingsId": "",
       "id": 24
+    },
+    {
+      "email": "aaa@mail.com",
+      "password": "$2a$10$ne8N.FiIMa.BH/X7K38bdekpZzxKBsq7sAt2B.8eOGo.PmXptEK6O",
+      "name": "a",
+      "contact": "0000000000",
+      "role": "user",
+      "id": 25
     }
   ],
   "coaches": [
